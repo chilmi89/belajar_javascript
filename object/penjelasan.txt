@@ -1,0 +1,11 @@
+Array adalah struktur data spesial yang dapat menyimpan kumpulan data yang terurut. 
+Data yang disimpan di dalam array terurut, sedangkan di object tidak terurut.
+
+Di array, kita bisa menambahkan nilai di antara data yang sudah ada.
+Data yang ada di array dapat diakses menggunakan pola indeks. Nilai yang disimpan di dalam array disebut dengan element.
+
+Array dapat menyimpan nilai dengan tipe data apa pun, seperti number, object, dan string.
+Oleh karena itu, array bersifat dinamis sehingga kita dapat menambahkan element baru di dalam array.
+
+Array juga merupakan sebuah object.
+ Anda dapat memanfaatkan method typeof untuk melihat jenis tipe data dari array tersebut seperti berikut.
